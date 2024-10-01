@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="e5t0pPumDqYyffJBHCtZ">
-    <mxGraphModel dx="989" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="dxDd_ae9km5gt-3TqSws-5" value="&lt;div&gt;Verificar&amp;nbsp;&lt;/div&gt;&lt;div&gt;Autenticação&lt;/div&gt;" style="ellipse;whiteSpace=wrap;fillColor=none;strokeWidth=2;fontSize=14;fontStyle=1;html=1;align=center;labelBackgroundColor=none;" vertex="1" parent="OOBrKJmv8DatibSCt1Xn-1">
           <mxGeometry x="413" y="226" width="154" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="OOBrKJmv8DatibSCt1Xn-23" value="&lt;div&gt;Não Registado&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;strokeWidth=3;labelPosition=center;align=center;spacingTop=3;spacingBottom=4;fontSize=19;fontStyle=0;spacing=8;perimeterSpacing=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="OOBrKJmv8DatibSCt1Xn-23" value="&lt;div&gt;Não Autenticado&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;strokeWidth=3;labelPosition=center;align=center;spacingTop=3;spacingBottom=4;fontSize=19;fontStyle=0;spacing=8;perimeterSpacing=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="407" width="92" height="142" as="geometry" />
         </mxCell>
         <mxCell id="OOBrKJmv8DatibSCt1Xn-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;strokeWidth=2;labelBackgroundColor=none;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OOBrKJmv8DatibSCt1Xn-23" target="OOBrKJmv8DatibSCt1Xn-3" edge="1">
